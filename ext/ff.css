@@ -1,0 +1,60 @@
+@font-face {
+    font-family: Phorssa;
+    src: url(../fnt/phor.ttf) format("truetype");
+}
+@font-face {
+    font-family: Belisa;
+    src: url(../fnt/beli.ttf) format("truetype");
+}
+@font-face {
+    font-family: DIEL;
+    src: url(../fnt/diel.ttf) format("truetype");
+}
+@font-face {
+    font-family: Gadetyper;
+    src: url(../fnt/gade.otf) format("opentype");
+}
+@font-face {
+    font-family: Lugosi;
+    src: url(../fnt/lugo.otf) format("opentype");
+}
+@font-face {
+    font-family: MURO;
+    src: url(../fnt/muro.otf) format("opentype");
+}
+@font-face {
+    font-family: PIXO;
+    src: url(../fnt/pixo.ttf) format("truetype");
+}
+@font-face {
+    font-family: RIOT;
+    src: url(../fnt/riot.otf) format("opentype");
+}
+@font-face {
+    font-family: Stab;
+    src: url(../fnt/stab.ttf) format("truetype");
+}
+@font-face {
+    font-family: Tali;
+    src: url(../fnt/tali.ttf) format("truetype");
+}
+@font-face {
+    font-family: Zrro;
+    src: url(../fnt/zero.ttf) format("truetype");
+}
+@font-face {
+    font-family: Borded;
+    src: url(../fnt/BOREDSB.TTF) format("truetype");
+}
+@font-face {
+    font-family: Moondark;
+    src: url(../fnt/DarkoftheMoon-Regular.otf) format("opentype");
+}
+@font-face {
+    font-family: IBMVGA;
+    src: url(../fnt/Flexi_IBM_VGA_True.ttf) format("truetype");
+}
+@font-face {
+    font-family: SMType;
+    src: url(../fnt/SmallTypeWriting.ttf) format("truetype");
+}

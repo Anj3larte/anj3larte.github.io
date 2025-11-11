@@ -1,0 +1,27 @@
+@import url(paths.css);
+
+body {
+	background: center url(../img/one.png);
+}
+div {
+	backdrop-filter: invert();
+}
+button {
+	cursor: pointer;
+	position: absolute;
+	background-color: #00000000;
+	border: none;
+	color: red;
+	font-family: Phorssa;
+	font-weight: lighter;
+	font-size: 300%;
+	width: 20vw;
+	height: 10vh;
+	top: 40vh;
+	left: 40vw;
+	text-shadow:
+	2px 0 #000,
+	-2px 0 #000,
+	0 2px #000,
+	0 -2px #000;
+}

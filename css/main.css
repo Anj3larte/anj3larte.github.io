@@ -1,0 +1,43 @@
+@import url(paths.css);
+
+body {
+	background: center url(../img/two.png);
+}
+
+.navbar {
+	z-index: 1000;
+	display: flex;
+	position: sticky;
+	top: 0;
+	padding-bottom: 30px;
+	background: linear-gradient(to bottom, var(--pri-accent-color) 45%, #ffffff00);
+}
+
+div {
+	position: absolute;
+	background: #000000d0;
+	color: #fff;
+	text-align: center;
+	border: double #fff 8px;
+}
+#mainpagerd {
+	top: 0vh;
+	left: calc(20vw - 4px);
+	min-height: 100%;
+	width: 60vw;
+	border-top: none;
+	border-bottom: none;
+}
+
+p {
+	font-family: Belisa;
+	font-size: 40px;
+}
+h1 {
+	font-family: Zrro;
+	font-weight: lighter;
+	font-size: 50px;
+}
+h2 {
+	font-family: DIEL;
+}
